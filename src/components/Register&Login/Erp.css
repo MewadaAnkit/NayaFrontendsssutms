@@ -1,0 +1,36 @@
+.card-text{
+text-align: center;
+font-weight: 800;
+color:black;
+font-family: 'Fira Sans', sans-serif;
+}
+
+.card-image{
+  text-align: center;
+  margin-left:25%;
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+}
+
+.card:hover {
+  box-shadow: none;
+  transform: none;
+}
+
+
+
+.title-heading{
+  font-size: 3em;
+  text-align: center;
+  margin: 3%;
+  font-weight: bold;
+}
+.erpBG{
+  background-image: url("../../HomePage/../images/SOD-BUILDING.png");
+}
+.cardCont{
+  backdrop-filter: blur(8px) saturate(180%);
+  /* -webkit-backdrop-filter: blur(11px) saturate(180%); */
+  height: 100%;
+  width: 100%;
+}
